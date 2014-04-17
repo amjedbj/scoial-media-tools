@@ -1,4 +1,6 @@
 scoial-media-tools
 ==================
 
-tools for social media developper
+Tools for social media developper.
+
+A new project.
